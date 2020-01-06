@@ -1,0 +1,6 @@
+<script src="webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js"></script>
+<footer style="text-align: center;">
+	&copy; Zebra Dynamics, Inc 2019 | <a href="login.jsp">Admin</a>
+</footer>
+</body>
+</html>

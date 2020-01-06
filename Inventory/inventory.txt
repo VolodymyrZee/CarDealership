@@ -1,0 +1,13 @@
+true,true,Dodge,Durango,blue,2008,JPK12,automatic,gas,6200,02/12/2019,125700,https://listings-prod.tcimg.net/listings/49166/76/13/1D8HB48N48F141376/JMMK7KZYLEQ7J6B2LICJ6JKNJM-600.jpg
+true,true,VW,Jetta,grey,2012,ZBF87,manual,diesel,7899,04/01/2019,60205,https://img.sm360.ca/ir/w770/images/inventory/vantage-motors/volkswagen/jetta/2015/5361714/5361714_03424_TR_bf247184-d23b-4eff-aaf6-b098059dd2fe.jpg
+true,false,Subaru,Outback,blue,2007,ZBK01,manual,gas,6500,10/10/2019,77500,https://dygtyjqp7pi0m.cloudfront.net/i/33552/29315917_1.jpg?v=8D57630C97F63B0
+true,false,Ford,Fiesta,white,2014,FQM92,manual,gas,9100,09/19/2019,12300,http://www.fiestast.org/forum/attachments/fiesta-st-photos-videos/54d1379827242-fiesta-st-owner-photos-img_0916.jpg
+true,false,Honda,S2000,black,2005,OKH54,manual,gas,12200,10/14/2019,101000,http://images.gtcarlot.com/pictures/72328939.jpg
+true,false,Jeep,Cherokee,blue,1998,JOY65,automatic,gas,4000,11/01/2019,120400,https://media.nextechclassifieds.com/img/listings/ve/velocityautosales/listing_pic_1589788_1539087747.jpeg
+true,true,Mazda,RX8,red,2005,MHY62,automatic,gas,5500,08/09/2019,80800,https://listings-prod.tcimg.net/listings/145349/35/57/JM1FE17N550155735/O3HQPPHG6DAMEOZ5667IOUFPUM-318.jpg
+false,false,Honda,Accord,blue,2019,HAC10,automatic,gas,25999,11/11/2019,0,https://cnet2.cbsistatic.com/img/O_0nQTfciHsNcaHcW6RiRHDHVbw=/1092x0/2019/04/10/d1c6c962-c89a-4279-bdca-fc799eb41409/2019-honda-accord-sport-20t-16.jpg
+false,false,Jeep,Trackhawk,black,2019,JDK56,automatic,gas,67900,10/10/2019,0,https://www.lindsaychryslerdodgejeepram.com/inventoryphotos/4503/1c4rjfn97kc611384/ip/3.jpg?height=400
+true,true,Subaru,Impreza,blue,2007,SIS90,manual,gas,9000,07/04/2019,150000,https://d32c3oe4bky4k6.cloudfront.net/articles-videos/-/media/uscamediasite/images/story-images/2019/06/19/sti_2007-wr-blue.ashx?modified=20190619194848&mw=1000&hash=B330413B5AAB05B47466C9B76CB0B715246FACE2
+true,true,Toyota,Prius,silver,2014,TPI76,automatic,hybrid,9999,08/02/2019,88400,https://images.carstory.com/-1483694951102085845/9/t/424x-
+true,false,Lexus,LS400,black,2000,LSK75,automatic,gas,6600,10/15/2019,110100,https://i.ytimg.com/vi/AalDDgW2zpA/maxresdefault.jpg
+true,false,Fiat,500Abarth,Black,2012,JDK87,Manual,Gas,6799,01/06/2020,12500,pic.jpg
