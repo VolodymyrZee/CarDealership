@@ -43,7 +43,7 @@
 	<c:forEach var="vehicle" items="${vehicles}"> 
 	<% Vehicle vehicle = (Vehicle) session.getAttribute("vehicle"); %>
 	  <figure class="figure" style="padding-left:5px; padding-right:5px;">
-        	<img src="${vehicle.vehiclePicture}" class="figure-img img-fluid rounded img-responsive" style="padding-top: 5px; width: 500px; height: 250px;" alt="vehicle">
+        	<img src="${vehicle.vehiclePicture}" class="figure-img img-fluid rounded img-responsive" style="padding-top: 5px; width: 500px; height: 350px;" alt="vehicle">
         <figcaption class="figure-caption">
          
           

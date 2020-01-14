@@ -2,3 +2,4 @@
 01/06/2020,null,null,null,null,null,null,null,null,JPK12,5566,Dodge,Durango,2008
 01/06/2020,null,null,null,null,null,null,null,null,JPK12,5587,Dodge,Durango,2008
 01/01/2020,null,null,null,null,null,null,null,null,ZBK01,5544,Subaru,Outback,2007
+12/12/2019,null,null,null,null,null,null,null,null,JPK12,5555,Dodge,Durango,2008

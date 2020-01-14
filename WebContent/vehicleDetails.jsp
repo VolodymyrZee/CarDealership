@@ -39,9 +39,9 @@
   		</div>
 	</nav>
 	<div style="margin-bottom: 25px;">
-	<c:forEach var="vehicle" items="${vehicles}"> 
+	
 	<% Vehicle vehicle = (Vehicle) session.getAttribute("vehicle"); %>
-	<img src="${vehicle.vehiclePicture}" alt="picture" style="width: 700px; height:800px; padding-top: 5px; ">
+	<img src="${vehicle.vehiclePicture}" alt="picture" style="width: 750px; height:640px; padding-top: 3px; ">
 	<div style="float: right; font-size: 2em; padding-right:75px">
 		<h1>Information</h1>
 		<table class="table table-bordered">
@@ -85,7 +85,7 @@
     	<c:if test="${vehicle.isPreOwned = false}"><h1>New</h1></c:if>
     	<c:if test="${vehicle.isInAuction = true}"><h3>In Auction!</h3></c:if>
 	</div>
-	</c:forEach>
+
 	</div>
 	
 	
